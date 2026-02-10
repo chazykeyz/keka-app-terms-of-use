@@ -1,92 +1,117 @@
 # Terms of Use – Keka App
 
 **Effective Date:** August 2, 2025  
-Last Updated: August 2, 2025
+**Last Updated:** August 2, 2025
 
-Welcome to Keka App (“we,” “our,” or “us”). These Terms of Use govern your use of the Keka mobile application (“App”). By accessing or using the App, you agree to these terms. If you do not agree, do not use the App.
+Welcome to **Keka App** (“we,” “our,” or “us”). These Terms of Use govern your access to and use of the Keka mobile application (“App”). By accessing or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
 ---
 
 ## 1. Eligibility
 
-You must be at least **18 years old** to use this App. By using the App, you confirm that you meet this requirement.
+You must be at least **18 years old** or the legal age in your jurisdiction to use the App. By using Keka App, you confirm that you meet this requirement.
 
 ---
 
-## 2. License & Access
+## 2. Description of Service
 
-We grant you a limited, non-exclusive, non-transferable license to use the App for **personal, non-commercial purposes** only. You may not:
+Keka App provides betting-related information, tips, promotions, and related digital services.  
+**Keka App does not guarantee winnings** and does not provide financial or investment advice.
 
-- Copy, modify, or distribute the App
-- Reverse-engineer, decompile, or attempt to access source code
-- Use the App to break laws or harm others
+Use of the App is at your own risk.
 
 ---
 
-## 3. Account & User Data
+## 3. User Accounts
 
-You are responsible for maintaining the confidentiality of your account and device. You agree to:
+To access certain features, you may be required to create an account.
 
-- Provide accurate phone number and device information
-- Not impersonate others
-- Be responsible for all activity under your account
+You agree to:
+- Provide accurate and complete information  
+- Keep your login credentials secure  
+- Accept responsibility for all activity under your account  
 
-See our [Privacy Policy](./privacy-policy.md) for how we handle data.
+We reserve the right to suspend or terminate accounts that violate these Terms.
 
 ---
 
 ## 4. Acceptable Use
 
-You agree not to use the App in ways that:
+You agree **not** to:
+- Use the App for illegal or fraudulent purposes  
+- Attempt to hack, reverse engineer, or disrupt the App  
+- Upload malicious code or harmful content  
+- Impersonate another person or entity  
 
-- Violate any law or regulation
-- Infringe on intellectual property or privacy rights
-- Promote gambling or illegal content (unless legally allowed and third-party hosted)
-- Disrupt, damage, or overburden the app infrastructure
-
----
-
-## 5. Third-Party Links & Content
-
-The App may include links or integrations with third-party platforms (e.g., betting services or content providers). We do **not endorse** or control these third-party services and are **not liable** for their content, terms, or practices.
+Any misuse may result in immediate termination.
 
 ---
 
-## 6. Modifications and Updates
+## 5. Betting Disclaimer
 
-We reserve the right to modify or discontinue any part of the App at any time, with or without notice. Continued use after changes means you accept the new terms.
+Keka App:
+- Does **not** operate as a betting company  
+- Does **not** accept or place bets on behalf of users  
+- Provides information only  
 
----
-
-## 7. Termination
-
-We may suspend or terminate your access without prior notice if you violate these Terms or use the App inappropriately. Upon termination, your right to use the App ends immediately.
-
----
-
-## 8. Limitation of Liability
-
-To the fullest extent permitted by law, Keka App and its developers are **not liable** for any direct, indirect, incidental, or consequential damages arising from your use of the App.
+Betting involves risk. You acknowledge that you may lose money when betting and that Keka App is **not responsible for any losses**.
 
 ---
 
-## 9. Disclaimer
+## 6. Intellectual Property
 
-The App is provided "as is" without warranties of any kind. We do not guarantee:
+All content in the App—including text, logos, graphics, and software—is owned by or licensed to Keka App.
 
-- That the App will be error-free or uninterrupted
-- The accuracy or reliability of any information provided
-
----
-
-## 10. Governing Law
-
-These Terms are governed by the laws of [Your Jurisdiction — e.g., Tanzania]. Any disputes arising from these terms shall be resolved in courts within that jurisdiction.
+You may not copy, modify, distribute, or exploit any content without written permission.
 
 ---
 
-## 11. Contact
+## 7. Third-Party Services
 
-For questions, reach out to:
+The App may include links or integrations with third-party services (e.g., payment providers, betting platforms).
 
-📧 **Email:** [support@kekaapp.com](mailto:support@kekaapp.com)
+We are **not responsible** for the content, policies, or actions of third parties. Use them at your own discretion.
+
+---
+
+## 8. Termination
+
+We may suspend or terminate your access to the App at any time, without notice, if you violate these Terms or applicable laws.
+
+You may stop using the App at any time.
+
+---
+
+## 9. Limitation of Liability
+
+To the maximum extent permitted by law:
+- Keka App is provided **“as is”**  
+- We are not liable for losses, damages, or missed opportunities  
+- We do not guarantee accuracy, availability, or uninterrupted service  
+
+---
+
+## 10. Indemnification
+
+You agree to indemnify and hold harmless Keka App, its owners, and affiliates from any claims, damages, or expenses arising from your use of the App or violation of these Terms.
+
+---
+
+## 11. Changes to These Terms
+
+We may update these Terms from time to time. Continued use of the App after changes means you accept the updated Terms.
+
+---
+
+## 12. Governing Law
+
+These Terms are governed by the laws of the **United Republic of Tanzania**, unless otherwise required by applicable law.
+
+---
+
+## 13. Contact Information
+
+If you have questions about these Terms, contact us at:
+
+**Email:** support@keka.app  
+**Company:** Keka App
